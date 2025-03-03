@@ -1,14 +1,252 @@
 {
   "vaultName": "Main",
-  "lastExport": 1733967769225,
+  "lastExport": 1740999897720,
   "pluginVersion": "1.8.01",
-  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title math-booster-preview-enabled ctp-latte ctp-mocha ctp-accent-lavender anuppuccin-accent-toggle anp-current-line-border anp-latex-inline-sapphire anp-latex-block-sapphire anp-hide-external-link-icon anp-h1-red anp-h2-peach anp-h3-green anp-h4-teal anp-h5-lavender anp-h6-mauve anp-bold-red anp-italic-green anp-highlight-yellow anp-file-icons anp-full-rainbow-color-toggle anp-full-rainbow-text-color-toggle-dark",
+  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title math-booster-preview-enabled ctp-latte ctp-mocha ctp-accent-light-lavender ctp-accent-lavender anuppuccin-accent-toggle anp-current-line-border anp-custom-checkboxes anp-speech-bubble anp-latex-inline-sapphire anp-latex-block-sapphire anp-hide-external-link-icon anp-h1-red anp-h2-peach anp-h3-green anp-h4-teal anp-h5-lavender anp-h6-mauve anp-decoration-toggle anp-bold-red anp-italic-green anp-highlight-yellow anp-file-icons anp-collapse-folders code-styler code-styler-style-inline code-styler-gutter-highlight code-styler-gutter-active-line",
   "useCustomHeadContent": false,
-  "useCustomFavicon": false,
+  "useCustomFavicon": true,
   "files": [
-    "src/images/MakaHeader.jpg",
-    "Github Pages.md",
-    "index.md",
+    "04 - Uni/Lineare Algebra 1/Euklidische und normierte Vektorräume/Äquivalenz von Normen.md",
+    "04 - Uni/Lineare Algebra 1/Euklidische und normierte Vektorräume/Cauchy-Schwarzsche Ungleichung.md",
+    "04 - Uni/Lineare Algebra 1/Euklidische und normierte Vektorräume/Euklidische Norm.md",
+    "04 - Uni/Lineare Algebra 1/Euklidische und normierte Vektorräume/Euklidische und normierte Vektorräume.md",
+    "04 - Uni/Lineare Algebra 1/Euklidische und normierte Vektorräume/Euklidischer Vektorraum.md",
+    "04 - Uni/Lineare Algebra 1/Euklidische und normierte Vektorräume/Gram-Schmidt-Verfahren.md",
+    "04 - Uni/Lineare Algebra 1/Euklidische und normierte Vektorräume/Kanonische Einheitsvektoren.md",
+    "04 - Uni/Lineare Algebra 1/Euklidische und normierte Vektorräume/Kanonisches Skalarprodukt.md",
+    "04 - Uni/Lineare Algebra 1/Euklidische und normierte Vektorräume/Kronecker-Delta.md",
+    "04 - Uni/Lineare Algebra 1/Euklidische und normierte Vektorräume/Norm.md",
+    "04 - Uni/Lineare Algebra 1/Euklidische und normierte Vektorräume/Normierter Vektor.md",
+    "04 - Uni/Lineare Algebra 1/Euklidische und normierte Vektorräume/Normierter Vektorraum.md",
+    "04 - Uni/Lineare Algebra 1/Euklidische und normierte Vektorräume/Orthogonale Projektion.md",
+    "04 - Uni/Lineare Algebra 1/Euklidische und normierte Vektorräume/Orthogonale Untervektorräume.md",
+    "04 - Uni/Lineare Algebra 1/Euklidische und normierte Vektorräume/Orthogonales Komplement.md",
+    "04 - Uni/Lineare Algebra 1/Euklidische und normierte Vektorräume/Orthogonalität.md",
+    "04 - Uni/Lineare Algebra 1/Euklidische und normierte Vektorräume/Orthogonalsystem.md",
+    "04 - Uni/Lineare Algebra 1/Euklidische und normierte Vektorräume/Orthonormalbasis.md",
+    "04 - Uni/Lineare Algebra 1/Euklidische und normierte Vektorräume/Orthonormalsystem.md",
+    "04 - Uni/Lineare Algebra 1/Euklidische und normierte Vektorräume/p-Norm.md",
+    "04 - Uni/Lineare Algebra 1/Euklidische und normierte Vektorräume/Parallelogrammgleichung.md",
+    "04 - Uni/Lineare Algebra 1/Euklidische und normierte Vektorräume/Polarisationsformel.md",
+    "04 - Uni/Lineare Algebra 1/Euklidische und normierte Vektorräume/Satz von Jordan und von Neumann.md",
+    "04 - Uni/Lineare Algebra 1/Euklidische und normierte Vektorräume/Skalarprodukt.md",
+    "04 - Uni/Lineare Algebra 1/Euklidische und normierte Vektorräume/Skalarprodukte und Normen.md",
+    "04 - Uni/Lineare Algebra 1/Euklidische und normierte Vektorräume/Vektorlänge.md",
+    "04 - Uni/Lineare Algebra 1/Euklidische und normierte Vektorräume/Verallgemeinerter Satz des Pythagoras.md",
+    "04 - Uni/Lineare Algebra 1/Euklidische und normierte Vektorräume/Verschärfte Dreiecksungleichung.md",
+    "04 - Uni/Lineare Algebra 1/Euklidische und normierte Vektorräume/Winkel zwischen zwei Vektoren.md",
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Abbildungen/Komposition von Abbildungen/Identische Abbildung.md",
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Abbildungen/Komposition von Abbildungen/Komposition von Abbildungen.md",
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Abbildungen/Komposition von Abbildungen/Umkehrabbildung.md",
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Abbildungen/Abbildung.md",
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Abbildungen/Abbildungen.md",
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Abbildungen/Abzählbare Mengen.md",
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Abbildungen/Bijektiv.md",
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Abbildungen/Bild einer Abbildung.md",
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Abbildungen/Gleichmächtige Mengen.md",
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Abbildungen/Graph.md",
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Abbildungen/Injektiv.md",
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Abbildungen/surjektiv.md",
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Abbildungen/Überabzählbare Mengen.md",
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Abbildungen/Urbild.md",
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Algebraische Strukturen/Abelsche Gruppe.md",
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Algebraische Strukturen/Algebraische Struktur.md",
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Algebraische Strukturen/Algebraische Strukturen.md",
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Algebraische Strukturen/Assoziativgesetz.md",
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Algebraische Strukturen/Beweis Satz1 Gruppe.md",
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Algebraische Strukturen/Binomische Formeln.md",
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Algebraische Strukturen/Bruchrechnen.md",
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Algebraische Strukturen/Distributivgesetz.md",
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Algebraische Strukturen/Einselement.md",
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Algebraische Strukturen/Gruppe.md",
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Algebraische Strukturen/Inverses Element.md",
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Algebraische Strukturen/Kern einer Abbildung.md",
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Algebraische Strukturen/Kommutativer Ring.md",
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Algebraische Strukturen/Kommutativgesetz.md",
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Algebraische Strukturen/Körper.md",
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Algebraische Strukturen/Menge der bijektiven Abbildungen.md",
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Algebraische Strukturen/Neutrales Element.md",
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Algebraische Strukturen/Ring.md",
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Algebraische Strukturen/Ring mit Eins.md",
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Algebraische Strukturen/Verknüpfungen.md",
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Elementare Aussagenlogik/Allquantor.md",
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Elementare Aussagenlogik/Äquivalenz.md",
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Elementare Aussagenlogik/Äquivalenz Beweis.md",
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Elementare Aussagenlogik/Aussage.md",
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Elementare Aussagenlogik/Aussageformen.md",
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Elementare Aussagenlogik/Aussagenverknüpfung de Morgan.md",
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Elementare Aussagenlogik/Aussagevariable.md",
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Elementare Aussagenlogik/Beweis Satz Umkehrung der Implikation Logische Implikation.md",
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Elementare Aussagenlogik/Beweismethoden.md",
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Elementare Aussagenlogik/Direkter Beweis.md",
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Elementare Aussagenlogik/Disjunktion von Aussagen.md",
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Elementare Aussagenlogik/Elementare Aussagenlogik.md",
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Elementare Aussagenlogik/Existenzquantor.md",
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Elementare Aussagenlogik/Hinreichend.md",
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Elementare Aussagenlogik/Hinreichend und Notwendig.md",
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Elementare Aussagenlogik/Indirekte bzw. Wiederspruchs Beweise.md",
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Elementare Aussagenlogik/Konjunktion von Aussagen.md",
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Elementare Aussagenlogik/Kontravalenz von Aussagen.md",
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Elementare Aussagenlogik/Logische Implikation.md",
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Elementare Aussagenlogik/Negation einer Aussage.md",
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Elementare Aussagenlogik/Negation von Quantoren.md",
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Elementare Aussagenlogik/Notwendig.md",
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Elementare Aussagenlogik/Quantoren.md",
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Elementare Aussagenlogik/Verknüpfung von Aussagen.md",
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Elementare Aussagenlogik/Vollständige Induktion.md",
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Elementare Aussagenlogik/Wahrheitswert.md",
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Mengen/Das Kartesische Produkt.md",
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Mengen/disjunkt.md",
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Mengen/Einschluss Ausschluss Formel.md",
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Mengen/Elemente.md",
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Mengen/Komplement.md",
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Mengen/Mächtigkeit einer Menge.md",
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Mengen/Menge.md",
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Mengen/Mengen.md",
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Mengen/Mengenoperationen.md",
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Mengen/Potenzmenge.md",
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Mengen/Rechenregeln für Mengen.md",
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Mengen/Symmetrische Differenz.md",
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Mengen/Teilmengen.md",
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Mengen/Tupel.md",
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Grundlagen.md",
+    "04 - Uni/Lineare Algebra 1/Lineare Abbildungen/Abbildungsverhalten linearer Abbildungen.md",
+    "04 - Uni/Lineare Algebra 1/Lineare Abbildungen/Achsenspiegelung.md",
+    "04 - Uni/Lineare Algebra 1/Lineare Abbildungen/Additivität.md",
+    "04 - Uni/Lineare Algebra 1/Lineare Abbildungen/Affine Abbildung.md",
+    "04 - Uni/Lineare Algebra 1/Lineare Abbildungen/Basiswechsel und Koordinatentransformation.md",
+    "04 - Uni/Lineare Algebra 1/Lineare Abbildungen/Beweis Linearität der Matrix-Vector Multiplikation.md",
+    "04 - Uni/Lineare Algebra 1/Lineare Abbildungen/Beweis Linearität der Umkehrabbildung linearer Abbildungen.md",
+    "04 - Uni/Lineare Algebra 1/Lineare Abbildungen/bijektivität linearer Abbildungen.md",
+    "04 - Uni/Lineare Algebra 1/Lineare Abbildungen/Bild, Kern und Rang linearer Abbildungen.md",
+    "04 - Uni/Lineare Algebra 1/Lineare Abbildungen/Definition und Eigenschaften.md",
+    "04 - Uni/Lineare Algebra 1/Lineare Abbildungen/Drehung um 90°.md",
+    "04 - Uni/Lineare Algebra 1/Lineare Abbildungen/Drehung um einen Winkel.md",
+    "04 - Uni/Lineare Algebra 1/Lineare Abbildungen/Geometrische Beispiele.md",
+    "04 - Uni/Lineare Algebra 1/Lineare Abbildungen/Homogene Koordinaten.md",
+    "04 - Uni/Lineare Algebra 1/Lineare Abbildungen/Homogene Transformation.md",
+    "04 - Uni/Lineare Algebra 1/Lineare Abbildungen/Homogenität.md",
+    "04 - Uni/Lineare Algebra 1/Lineare Abbildungen/injektivität linearer Abbildungen.md",
+    "04 - Uni/Lineare Algebra 1/Lineare Abbildungen/Isomorphismus.md",
+    "04 - Uni/Lineare Algebra 1/Lineare Abbildungen/Iwasawa-Zerlegung.md",
+    "04 - Uni/Lineare Algebra 1/Lineare Abbildungen/Komposition linearer Abbildungen.md",
+    "04 - Uni/Lineare Algebra 1/Lineare Abbildungen/Lineare Abbildung.md",
+    "04 - Uni/Lineare Algebra 1/Lineare Abbildungen/Lineare Abbildungen.md",
+    "04 - Uni/Lineare Algebra 1/Lineare Abbildungen/Lineare Abhängigkeit von Linearen Abbildungen.md",
+    "04 - Uni/Lineare Algebra 1/Lineare Abbildungen/Linearität der Matrix-Vector Multiplikation.md",
+    "04 - Uni/Lineare Algebra 1/Lineare Abbildungen/Matrixdarstellung linearer Abbildungen.md",
+    "04 - Uni/Lineare Algebra 1/Lineare Abbildungen/Orthogonale Abbildungen.md",
+    "04 - Uni/Lineare Algebra 1/Lineare Abbildungen/Punktspiegelung am Nullpunkt.md",
+    "04 - Uni/Lineare Algebra 1/Lineare Abbildungen/Scherung.md",
+    "04 - Uni/Lineare Algebra 1/Lineare Abbildungen/Streckung.md",
+    "04 - Uni/Lineare Algebra 1/Lineare Abbildungen/surjektivität linearer Abbildungen.md",
+    "04 - Uni/Lineare Algebra 1/Lineare Abbildungen/Umkehrabbildungen linearer Abbildungen.md",
+    "04 - Uni/Lineare Algebra 1/Lineare Abbildungen/Untervektorräume linearer Abbildungen.md",
+    "04 - Uni/Lineare Algebra 1/Matrizen/Addition von Matrizen.md",
+    "04 - Uni/Lineare Algebra 1/Matrizen/Allgemeine lineare Gruppe.md",
+    "04 - Uni/Lineare Algebra 1/Matrizen/Beweis Dimension des Bildes.md",
+    "04 - Uni/Lineare Algebra 1/Matrizen/Beweis Dimensionsformel.md",
+    "04 - Uni/Lineare Algebra 1/Matrizen/Beweis Lemma3 Bild, Kern und Rang von Matrizen.md",
+    "04 - Uni/Lineare Algebra 1/Matrizen/Beweis Matrixbild ist Untervektorraum.md",
+    "04 - Uni/Lineare Algebra 1/Matrizen/Beweis Matrixkern ist Untervektorraum.md",
+    "04 - Uni/Lineare Algebra 1/Matrizen/Beweis Nicht Nullabbildung Inverser Matrizen.md",
+    "04 - Uni/Lineare Algebra 1/Matrizen/Beweis Rang Transponierter Matrix.md",
+    "04 - Uni/Lineare Algebra 1/Matrizen/Beweis Satz1 Orthogonale Matrizen.md",
+    "04 - Uni/Lineare Algebra 1/Matrizen/Beweis Satz2 Bild, Kern und Rang von Matrizen.md",
+    "04 - Uni/Lineare Algebra 1/Matrizen/Beweis Satz3 Orthogonale Matrizen.md",
+    "04 - Uni/Lineare Algebra 1/Matrizen/Beweis Satz4 Orthogonale Matrizen.md",
+    "04 - Uni/Lineare Algebra 1/Matrizen/Beweis Satz5 Orthogonale Matrizen.md",
+    "04 - Uni/Lineare Algebra 1/Matrizen/Beweis Satz6 Orthogonale Matrizen.md",
+    "04 - Uni/Lineare Algebra 1/Matrizen/Beweis Spaltenraum ist Bild.md",
+    "04 - Uni/Lineare Algebra 1/Matrizen/Bild einer Matrix.md",
+    "04 - Uni/Lineare Algebra 1/Matrizen/Bild, Kern und Rang von Matrizen.md",
+    "04 - Uni/Lineare Algebra 1/Matrizen/Definition von Matrizen.md",
+    "04 - Uni/Lineare Algebra 1/Matrizen/Diagonal-Matrix.md",
+    "04 - Uni/Lineare Algebra 1/Matrizen/Diagonale einer Matrix.md",
+    "04 - Uni/Lineare Algebra 1/Matrizen/Dimensionsformel von Matrizen.md",
+    "04 - Uni/Lineare Algebra 1/Matrizen/Dreiecks- und Diagonalmatrizen.md",
+    "04 - Uni/Lineare Algebra 1/Matrizen/Einheitsmatrix.md",
+    "04 - Uni/Lineare Algebra 1/Matrizen/Elementarmatrizen.md",
+    "04 - Uni/Lineare Algebra 1/Matrizen/Elementarmatrizen Typ 1.md",
+    "04 - Uni/Lineare Algebra 1/Matrizen/Elementarmatrizen Typ 2.md",
+    "04 - Uni/Lineare Algebra 1/Matrizen/Elementarmatrizen Typ 3.md",
+    "04 - Uni/Lineare Algebra 1/Matrizen/Elementarmatrizen und Matrizenumformungen.md",
+    "04 - Uni/Lineare Algebra 1/Matrizen/Inverse Matrizen.md",
+    "04 - Uni/Lineare Algebra 1/Matrizen/Invertierbare Matrix.md",
+    "04 - Uni/Lineare Algebra 1/Matrizen/Invertierbarkeit der Transponierten Matrix.md",
+    "04 - Uni/Lineare Algebra 1/Matrizen/Invertierbarkeit von quadratischen Matrizen.md",
+    "04 - Uni/Lineare Algebra 1/Matrizen/Kern einer Matrix.md",
+    "04 - Uni/Lineare Algebra 1/Matrizen/Matrix.md",
+    "04 - Uni/Lineare Algebra 1/Matrizen/Matrix-Vector Multiplikation.md",
+    "04 - Uni/Lineare Algebra 1/Matrizen/Matrixeinträge.md",
+    "04 - Uni/Lineare Algebra 1/Matrizen/Matrixindex.md",
+    "04 - Uni/Lineare Algebra 1/Matrizen/Matrixmultiplikation.md",
+    "04 - Uni/Lineare Algebra 1/Matrizen/Matrizen.md",
+    "04 - Uni/Lineare Algebra 1/Matrizen/Multiplikation mit Matrizen.md",
+    "04 - Uni/Lineare Algebra 1/Matrizen/Nullmatrix.md",
+    "04 - Uni/Lineare Algebra 1/Matrizen/Obere Dreiecks-Matrix.md",
+    "04 - Uni/Lineare Algebra 1/Matrizen/Orthogonal-Matrix.md",
+    "04 - Uni/Lineare Algebra 1/Matrizen/Orthogonale Gruppe.md",
+    "04 - Uni/Lineare Algebra 1/Matrizen/Orthogonale Matrizen.md",
+    "04 - Uni/Lineare Algebra 1/Matrizen/Quadratische Matrix.md",
+    "04 - Uni/Lineare Algebra 1/Matrizen/Rang einer Matrix.md",
+    "04 - Uni/Lineare Algebra 1/Matrizen/Rang Transponierter Matrix.md",
+    "04 - Uni/Lineare Algebra 1/Matrizen/Rechenregeln der Matrixmultiplikation.md",
+    "04 - Uni/Lineare Algebra 1/Matrizen/Rechnen mit Matrizen.md",
+    "04 - Uni/Lineare Algebra 1/Matrizen/S-Multiplikation von Matrizen.md",
+    "04 - Uni/Lineare Algebra 1/Matrizen/Schema_Matrix_Matrix_Multiplikation.png",
+    "04 - Uni/Lineare Algebra 1/Matrizen/Schema_Matrix_Vector_Multiplikation.png",
+    "04 - Uni/Lineare Algebra 1/Matrizen/Spaltenraum.md",
+    "04 - Uni/Lineare Algebra 1/Matrizen/Symetrische Matrix.md",
+    "04 - Uni/Lineare Algebra 1/Matrizen/Transponierte Matrix.md",
+    "04 - Uni/Lineare Algebra 1/Matrizen/Transponierte Matrizen.md",
+    "04 - Uni/Lineare Algebra 1/Matrizen/Untere-Dreiecks-Matrix.md",
+    "04 - Uni/Lineare Algebra 1/Matrizen/Vollrangige Matrix.md",
+    "04 - Uni/Lineare Algebra 1/Matrizen/Zeilen und Spaltenrang.md",
+    "04 - Uni/Lineare Algebra 1/Matrizen/Zeilen und Spaltenvektoren.md",
+    "04 - Uni/Lineare Algebra 1/Matrizen/Zeilenraum.md",
+    "04 - Uni/Lineare Algebra 1/Matrizen/Zeilenumformungen.md",
+    "04 - Uni/Lineare Algebra 1/Vektorräume/Linearkombinationen und lineare Unabhängigkeit/Austauschlemma.md",
+    "04 - Uni/Lineare Algebra 1/Vektorräume/Linearkombinationen und lineare Unabhängigkeit/Erzeugendensystem.md",
+    "04 - Uni/Lineare Algebra 1/Vektorräume/Linearkombinationen und lineare Unabhängigkeit/Lineare abhängigkeit.md",
+    "04 - Uni/Lineare Algebra 1/Vektorräume/Linearkombinationen und lineare Unabhängigkeit/Lineare unabhängigkeit.md",
+    "04 - Uni/Lineare Algebra 1/Vektorräume/Linearkombinationen und lineare Unabhängigkeit/Linearkombination.md",
+    "04 - Uni/Lineare Algebra 1/Vektorräume/Linearkombinationen und lineare Unabhängigkeit/Linearkombinationen und lineare Unabhängigkeit.md",
+    "04 - Uni/Lineare Algebra 1/Vektorräume/Linearkombinationen und lineare Unabhängigkeit/Spann.md",
+    "04 - Uni/Lineare Algebra 1/Vektorräume/Vektorraumaxiome/Skalare.md",
+    "04 - Uni/Lineare Algebra 1/Vektorräume/Vektorraumaxiome/Vektoren.md",
+    "04 - Uni/Lineare Algebra 1/Vektorräume/Vektorraumaxiome/Vektorraum.md",
+    "04 - Uni/Lineare Algebra 1/Vektorräume/Vektorraumaxiome/Vektorraumaxiome.md",
+    "04 - Uni/Lineare Algebra 1/Vektorräume/Affiner Unterraum.md",
+    "04 - Uni/Lineare Algebra 1/Vektorräume/Basis und Dimension.md",
+    "04 - Uni/Lineare Algebra 1/Vektorräume/Basis-Isomorphismus.md",
+    "04 - Uni/Lineare Algebra 1/Vektorräume/Dimension eines Untervektorraums.md",
+    "04 - Uni/Lineare Algebra 1/Vektorräume/Direkte Summe von Untervektorräumen.md",
+    "04 - Uni/Lineare Algebra 1/Vektorräume/Koordinatensystem.md",
+    "04 - Uni/Lineare Algebra 1/Vektorräume/Summe von Untervektorräumen.md",
+    "04 - Uni/Lineare Algebra 1/Vektorräume/Untervektorräume.md",
+    "04 - Uni/Lineare Algebra 1/Vektorräume/Vektorraum Basis.md",
+    "04 - Uni/Lineare Algebra 1/Vektorräume/Vektorraum Dimension.md",
+    "04 - Uni/Lineare Algebra 1/Vektorräume/Vektorräume.md",
+    "04 - Uni/Lineare Algebra 1/Vektorrechnung im zweidimensionalen und dreidimensionalen anschauungstaum/Ebenen.md",
+    "04 - Uni/Lineare Algebra 1/Vektorrechnung im zweidimensionalen und dreidimensionalen anschauungstaum/Ebenen Normalenform.md",
+    "04 - Uni/Lineare Algebra 1/Vektorrechnung im zweidimensionalen und dreidimensionalen anschauungstaum/Ebenen Normalenvektor.md",
+    "04 - Uni/Lineare Algebra 1/Vektorrechnung im zweidimensionalen und dreidimensionalen anschauungstaum/Einheitsvektor.md",
+    "04 - Uni/Lineare Algebra 1/Vektorrechnung im zweidimensionalen und dreidimensionalen anschauungstaum/Geraden.md",
+    "04 - Uni/Lineare Algebra 1/Vektorrechnung im zweidimensionalen und dreidimensionalen anschauungstaum/Geraden Normalenform.md",
+    "04 - Uni/Lineare Algebra 1/Vektorrechnung im zweidimensionalen und dreidimensionalen anschauungstaum/Geraden Normalenvektor.md",
+    "04 - Uni/Lineare Algebra 1/Vektorrechnung im zweidimensionalen und dreidimensionalen anschauungstaum/Ortsvektoren.md",
+    "04 - Uni/Lineare Algebra 1/Vektorrechnung im zweidimensionalen und dreidimensionalen anschauungstaum/Punktabstand.md",
+    "04 - Uni/Lineare Algebra 1/Vektorrechnung im zweidimensionalen und dreidimensionalen anschauungstaum/Punktebene.md",
+    "04 - Uni/Lineare Algebra 1/Vektorrechnung im zweidimensionalen und dreidimensionalen anschauungstaum/Punktgerade.md",
+    "04 - Uni/Lineare Algebra 1/Vektorrechnung im zweidimensionalen und dreidimensionalen anschauungstaum/Sphäre.md",
+    "04 - Uni/Lineare Algebra 1/Vektorrechnung im zweidimensionalen und dreidimensionalen anschauungstaum/Ursprungsebene.md",
+    "04 - Uni/Lineare Algebra 1/Vektorrechnung im zweidimensionalen und dreidimensionalen anschauungstaum/Ursprungsgerade.md",
+    "04 - Uni/Lineare Algebra 1/Vektorrechnung im zweidimensionalen und dreidimensionalen anschauungstaum/Vektorprodukt.md",
+    "04 - Uni/Lineare Algebra 1/Vektorrechnung im zweidimensionalen und dreidimensionalen anschauungstaum/Vektorraum Punkt.md",
+    "04 - Uni/Lineare Algebra 1/Vektorrechnung im zweidimensionalen und dreidimensionalen anschauungstaum/Vektorraum Ursprung.md",
+    "04 - Uni/Lineare Algebra 1/Vektorrechnung im zweidimensionalen und dreidimensionalen anschauungstaum/Vektorrechnung im zweidimensionalen und dreidimensionalen Anschauungsraum.md",
+    "04 - Uni/Lineare Algebra 1/Lineare Algebra 1.md",
     "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
@@ -62,8 +300,7 @@
     "lib/styles/global-variable-styles.css",
     "lib/styles/supported-plugins.css",
     "lib/styles/main-styles.css",
-    "lib/styles/snippets.css",
-    "src/images/d0140ccf38dac683e02fb0ed7c046fcf.jpg"
+    "lib/styles/snippets.css"
   ],
   "mainDependencies": [
     "lib/scripts/graph-wasm.wasm",
@@ -122,352 +359,1774 @@
     "lib/styles/snippets.css"
   ],
   "fileInfo": {
-    "src/images/d0140ccf38dac683e02fb0ed7c046fcf.jpg": {
-      "modifiedTime": 1733776173029,
-      "sourceSize": 20689,
-      "exportedPath": "src/images/d0140ccf38dac683e02fb0ed7c046fcf.jpg",
+    "04 - Uni/Lineare Algebra 1/Euklidische und normierte Vektorräume/Äquivalenz von Normen.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 574,
+      "exportedPath": "04-uni/lineare-algebra-1/euklidische-und-normierte-vektorräume/äquivalenz-von-normen.html",
       "dependencies": []
     },
-    "index.md": {
-      "modifiedTime": 1733967769225,
-      "sourceSize": 55,
-      "exportedPath": "index.html",
+    "04 - Uni/Lineare Algebra 1/Euklidische und normierte Vektorräume/Cauchy-Schwarzsche Ungleichung.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 277,
+      "exportedPath": "04-uni/lineare-algebra-1/euklidische-und-normierte-vektorräume/cauchy-schwarzsche-ungleichung.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Euklidische und normierte Vektorräume/Euklidische Norm.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 353,
+      "exportedPath": "04-uni/lineare-algebra-1/euklidische-und-normierte-vektorräume/euklidische-norm.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Euklidische und normierte Vektorräume/Euklidische und normierte Vektorräume.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 57,
+      "exportedPath": "04-uni/lineare-algebra-1/euklidische-und-normierte-vektorräume/euklidische-und-normierte-vektorräume.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Euklidische und normierte Vektorräume/Euklidischer Vektorraum.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 706,
+      "exportedPath": "04-uni/lineare-algebra-1/euklidische-und-normierte-vektorräume/euklidischer-vektorraum.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Euklidische und normierte Vektorräume/Gram-Schmidt-Verfahren.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 705,
+      "exportedPath": "04-uni/lineare-algebra-1/euklidische-und-normierte-vektorräume/gram-schmidt-verfahren.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Euklidische und normierte Vektorräume/Kanonische Einheitsvektoren.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 566,
+      "exportedPath": "04-uni/lineare-algebra-1/euklidische-und-normierte-vektorräume/kanonische-einheitsvektoren.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Euklidische und normierte Vektorräume/Kanonisches Skalarprodukt.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 279,
+      "exportedPath": "04-uni/lineare-algebra-1/euklidische-und-normierte-vektorräume/kanonisches-skalarprodukt.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Euklidische und normierte Vektorräume/Kronecker-Delta.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 311,
+      "exportedPath": "04-uni/lineare-algebra-1/euklidische-und-normierte-vektorräume/kronecker-delta.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Euklidische und normierte Vektorräume/Norm.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 736,
+      "exportedPath": "04-uni/lineare-algebra-1/euklidische-und-normierte-vektorräume/norm.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Euklidische und normierte Vektorräume/Normierter Vektor.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 328,
+      "exportedPath": "04-uni/lineare-algebra-1/euklidische-und-normierte-vektorräume/normierter-vektor.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Euklidische und normierte Vektorräume/Normierter Vektorraum.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 246,
+      "exportedPath": "04-uni/lineare-algebra-1/euklidische-und-normierte-vektorräume/normierter-vektorraum.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Euklidische und normierte Vektorräume/Orthogonale Projektion.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 976,
+      "exportedPath": "04-uni/lineare-algebra-1/euklidische-und-normierte-vektorräume/orthogonale-projektion.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Euklidische und normierte Vektorräume/Orthogonale Untervektorräume.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 292,
+      "exportedPath": "04-uni/lineare-algebra-1/euklidische-und-normierte-vektorräume/orthogonale-untervektorräume.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Euklidische und normierte Vektorräume/Orthogonales Komplement.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 725,
+      "exportedPath": "04-uni/lineare-algebra-1/euklidische-und-normierte-vektorräume/orthogonales-komplement.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Euklidische und normierte Vektorräume/Orthogonalität.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 504,
+      "exportedPath": "04-uni/lineare-algebra-1/euklidische-und-normierte-vektorräume/orthogonalität.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Euklidische und normierte Vektorräume/Orthogonalsystem.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 291,
+      "exportedPath": "04-uni/lineare-algebra-1/euklidische-und-normierte-vektorräume/orthogonalsystem.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Euklidische und normierte Vektorräume/Orthonormalbasis.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 270,
+      "exportedPath": "04-uni/lineare-algebra-1/euklidische-und-normierte-vektorräume/orthonormalbasis.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Euklidische und normierte Vektorräume/Orthonormalsystem.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 575,
+      "exportedPath": "04-uni/lineare-algebra-1/euklidische-und-normierte-vektorräume/orthonormalsystem.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Euklidische und normierte Vektorräume/p-Norm.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 281,
+      "exportedPath": "04-uni/lineare-algebra-1/euklidische-und-normierte-vektorräume/p-norm.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Euklidische und normierte Vektorräume/Parallelogrammgleichung.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 512,
+      "exportedPath": "04-uni/lineare-algebra-1/euklidische-und-normierte-vektorräume/parallelogrammgleichung.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Euklidische und normierte Vektorräume/Polarisationsformel.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 895,
+      "exportedPath": "04-uni/lineare-algebra-1/euklidische-und-normierte-vektorräume/polarisationsformel.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Euklidische und normierte Vektorräume/Satz von Jordan und von Neumann.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 344,
+      "exportedPath": "04-uni/lineare-algebra-1/euklidische-und-normierte-vektorräume/satz-von-jordan-und-von-neumann.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Euklidische und normierte Vektorräume/Skalarprodukt.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 1073,
+      "exportedPath": "04-uni/lineare-algebra-1/euklidische-und-normierte-vektorräume/skalarprodukt.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Euklidische und normierte Vektorräume/Skalarprodukte und Normen.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 751,
+      "exportedPath": "04-uni/lineare-algebra-1/euklidische-und-normierte-vektorräume/skalarprodukte-und-normen.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Euklidische und normierte Vektorräume/Vektorlänge.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 384,
+      "exportedPath": "04-uni/lineare-algebra-1/euklidische-und-normierte-vektorräume/vektorlänge.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Euklidische und normierte Vektorräume/Verallgemeinerter Satz des Pythagoras.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 506,
+      "exportedPath": "04-uni/lineare-algebra-1/euklidische-und-normierte-vektorräume/verallgemeinerter-satz-des-pythagoras.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Euklidische und normierte Vektorräume/Verschärfte Dreiecksungleichung.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 370,
+      "exportedPath": "04-uni/lineare-algebra-1/euklidische-und-normierte-vektorräume/verschärfte-dreiecksungleichung.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Euklidische und normierte Vektorräume/Winkel zwischen zwei Vektoren.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 382,
+      "exportedPath": "04-uni/lineare-algebra-1/euklidische-und-normierte-vektorräume/winkel-zwischen-zwei-vektoren.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Abbildungen/Komposition von Abbildungen/Identische Abbildung.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 210,
+      "exportedPath": "04-uni/lineare-algebra-1/grundlagen/abbildungen/komposition-von-abbildungen/identische-abbildung.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Abbildungen/Komposition von Abbildungen/Komposition von Abbildungen.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 672,
+      "exportedPath": "04-uni/lineare-algebra-1/grundlagen/abbildungen/komposition-von-abbildungen/komposition-von-abbildungen.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Abbildungen/Komposition von Abbildungen/Umkehrabbildung.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 459,
+      "exportedPath": "04-uni/lineare-algebra-1/grundlagen/abbildungen/komposition-von-abbildungen/umkehrabbildung.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Abbildungen/Abbildung.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 1002,
+      "exportedPath": "04-uni/lineare-algebra-1/grundlagen/abbildungen/abbildung.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Abbildungen/Abbildungen.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 2477,
+      "exportedPath": "04-uni/lineare-algebra-1/grundlagen/abbildungen/abbildungen.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Abbildungen/Abzählbare Mengen.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 305,
+      "exportedPath": "04-uni/lineare-algebra-1/grundlagen/abbildungen/abzählbare-mengen.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Abbildungen/Bijektiv.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 296,
+      "exportedPath": "04-uni/lineare-algebra-1/grundlagen/abbildungen/bijektiv.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Abbildungen/Bild einer Abbildung.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 563,
+      "exportedPath": "04-uni/lineare-algebra-1/grundlagen/abbildungen/bild-einer-abbildung.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Abbildungen/Gleichmächtige Mengen.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 350,
+      "exportedPath": "04-uni/lineare-algebra-1/grundlagen/abbildungen/gleichmächtige-mengen.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Abbildungen/Graph.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 225,
+      "exportedPath": "04-uni/lineare-algebra-1/grundlagen/abbildungen/graph.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Abbildungen/Injektiv.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 266,
+      "exportedPath": "04-uni/lineare-algebra-1/grundlagen/abbildungen/injektiv.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Abbildungen/surjektiv.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 378,
+      "exportedPath": "04-uni/lineare-algebra-1/grundlagen/abbildungen/surjektiv.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Abbildungen/Überabzählbare Mengen.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 269,
+      "exportedPath": "04-uni/lineare-algebra-1/grundlagen/abbildungen/überabzählbare-mengen.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Abbildungen/Urbild.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 403,
+      "exportedPath": "04-uni/lineare-algebra-1/grundlagen/abbildungen/urbild.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Algebraische Strukturen/Abelsche Gruppe.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 184,
+      "exportedPath": "04-uni/lineare-algebra-1/grundlagen/algebraische-strukturen/abelsche-gruppe.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Algebraische Strukturen/Algebraische Struktur.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 307,
+      "exportedPath": "04-uni/lineare-algebra-1/grundlagen/algebraische-strukturen/algebraische-struktur.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Algebraische Strukturen/Algebraische Strukturen.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 2170,
+      "exportedPath": "04-uni/lineare-algebra-1/grundlagen/algebraische-strukturen/algebraische-strukturen.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Algebraische Strukturen/Assoziativgesetz.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 213,
+      "exportedPath": "04-uni/lineare-algebra-1/grundlagen/algebraische-strukturen/assoziativgesetz.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Algebraische Strukturen/Beweis Satz1 Gruppe.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 1320,
+      "exportedPath": "04-uni/lineare-algebra-1/grundlagen/algebraische-strukturen/beweis-satz1-gruppe.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Algebraische Strukturen/Binomische Formeln.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 263,
+      "exportedPath": "04-uni/lineare-algebra-1/grundlagen/algebraische-strukturen/binomische-formeln.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Algebraische Strukturen/Bruchrechnen.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 315,
+      "exportedPath": "04-uni/lineare-algebra-1/grundlagen/algebraische-strukturen/bruchrechnen.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Algebraische Strukturen/Distributivgesetz.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 289,
+      "exportedPath": "04-uni/lineare-algebra-1/grundlagen/algebraische-strukturen/distributivgesetz.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Algebraische Strukturen/Einselement.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 153,
+      "exportedPath": "04-uni/lineare-algebra-1/grundlagen/algebraische-strukturen/einselement.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Algebraische Strukturen/Gruppe.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 807,
+      "exportedPath": "04-uni/lineare-algebra-1/grundlagen/algebraische-strukturen/gruppe.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Algebraische Strukturen/Inverses Element.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 293,
+      "exportedPath": "04-uni/lineare-algebra-1/grundlagen/algebraische-strukturen/inverses-element.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Algebraische Strukturen/Kern einer Abbildung.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 401,
+      "exportedPath": "04-uni/lineare-algebra-1/grundlagen/algebraische-strukturen/kern-einer-abbildung.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Algebraische Strukturen/Kommutativer Ring.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 212,
+      "exportedPath": "04-uni/lineare-algebra-1/grundlagen/algebraische-strukturen/kommutativer-ring.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Algebraische Strukturen/Kommutativgesetz.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 249,
+      "exportedPath": "04-uni/lineare-algebra-1/grundlagen/algebraische-strukturen/kommutativgesetz.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Algebraische Strukturen/Körper.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 1311,
+      "exportedPath": "04-uni/lineare-algebra-1/grundlagen/algebraische-strukturen/körper.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Algebraische Strukturen/Menge der bijektiven Abbildungen.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 433,
+      "exportedPath": "04-uni/lineare-algebra-1/grundlagen/algebraische-strukturen/menge-der-bijektiven-abbildungen.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Algebraische Strukturen/Neutrales Element.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 314,
+      "exportedPath": "04-uni/lineare-algebra-1/grundlagen/algebraische-strukturen/neutrales-element.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Algebraische Strukturen/Ring.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 568,
+      "exportedPath": "04-uni/lineare-algebra-1/grundlagen/algebraische-strukturen/ring.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Algebraische Strukturen/Ring mit Eins.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 175,
+      "exportedPath": "04-uni/lineare-algebra-1/grundlagen/algebraische-strukturen/ring-mit-eins.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Algebraische Strukturen/Verknüpfungen.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 244,
+      "exportedPath": "04-uni/lineare-algebra-1/grundlagen/algebraische-strukturen/verknüpfungen.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Elementare Aussagenlogik/Allquantor.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 181,
+      "exportedPath": "04-uni/lineare-algebra-1/grundlagen/elementare-aussagenlogik/allquantor.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Elementare Aussagenlogik/Äquivalenz.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 216,
+      "exportedPath": "04-uni/lineare-algebra-1/grundlagen/elementare-aussagenlogik/äquivalenz.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Elementare Aussagenlogik/Äquivalenz Beweis.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 274,
+      "exportedPath": "04-uni/lineare-algebra-1/grundlagen/elementare-aussagenlogik/äquivalenz-beweis.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Elementare Aussagenlogik/Aussage.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 157,
+      "exportedPath": "04-uni/lineare-algebra-1/grundlagen/elementare-aussagenlogik/aussage.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Elementare Aussagenlogik/Aussageformen.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 821,
+      "exportedPath": "04-uni/lineare-algebra-1/grundlagen/elementare-aussagenlogik/aussageformen.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Elementare Aussagenlogik/Aussagenverknüpfung de Morgan.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 215,
+      "exportedPath": "04-uni/lineare-algebra-1/grundlagen/elementare-aussagenlogik/aussagenverknüpfung-de-morgan.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Elementare Aussagenlogik/Aussagevariable.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 250,
+      "exportedPath": "04-uni/lineare-algebra-1/grundlagen/elementare-aussagenlogik/aussagevariable.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Elementare Aussagenlogik/Beweis Satz Umkehrung der Implikation Logische Implikation.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 299,
+      "exportedPath": "04-uni/lineare-algebra-1/grundlagen/elementare-aussagenlogik/beweis-satz-umkehrung-der-implikation-logische-implikation.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Elementare Aussagenlogik/Beweismethoden.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 156,
+      "exportedPath": "04-uni/lineare-algebra-1/grundlagen/elementare-aussagenlogik/beweismethoden.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Elementare Aussagenlogik/Direkter Beweis.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 322,
+      "exportedPath": "04-uni/lineare-algebra-1/grundlagen/elementare-aussagenlogik/direkter-beweis.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Elementare Aussagenlogik/Disjunktion von Aussagen.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 183,
+      "exportedPath": "04-uni/lineare-algebra-1/grundlagen/elementare-aussagenlogik/disjunktion-von-aussagen.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Elementare Aussagenlogik/Elementare Aussagenlogik.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 2177,
+      "exportedPath": "04-uni/lineare-algebra-1/grundlagen/elementare-aussagenlogik/elementare-aussagenlogik.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Elementare Aussagenlogik/Existenzquantor.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 211,
+      "exportedPath": "04-uni/lineare-algebra-1/grundlagen/elementare-aussagenlogik/existenzquantor.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Elementare Aussagenlogik/Hinreichend.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 137,
+      "exportedPath": "04-uni/lineare-algebra-1/grundlagen/elementare-aussagenlogik/hinreichend.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Elementare Aussagenlogik/Hinreichend und Notwendig.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 157,
+      "exportedPath": "04-uni/lineare-algebra-1/grundlagen/elementare-aussagenlogik/hinreichend-und-notwendig.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Elementare Aussagenlogik/Indirekte bzw. Wiederspruchs Beweise.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 202,
+      "exportedPath": "04-uni/lineare-algebra-1/grundlagen/elementare-aussagenlogik/indirekte-bzw.-wiederspruchs-beweise.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Elementare Aussagenlogik/Konjunktion von Aussagen.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 175,
+      "exportedPath": "04-uni/lineare-algebra-1/grundlagen/elementare-aussagenlogik/konjunktion-von-aussagen.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Elementare Aussagenlogik/Kontravalenz von Aussagen.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 218,
+      "exportedPath": "04-uni/lineare-algebra-1/grundlagen/elementare-aussagenlogik/kontravalenz-von-aussagen.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Elementare Aussagenlogik/Logische Implikation.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 667,
+      "exportedPath": "04-uni/lineare-algebra-1/grundlagen/elementare-aussagenlogik/logische-implikation.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Elementare Aussagenlogik/Negation einer Aussage.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 138,
+      "exportedPath": "04-uni/lineare-algebra-1/grundlagen/elementare-aussagenlogik/negation-einer-aussage.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Elementare Aussagenlogik/Negation von Quantoren.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 609,
+      "exportedPath": "04-uni/lineare-algebra-1/grundlagen/elementare-aussagenlogik/negation-von-quantoren.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Elementare Aussagenlogik/Notwendig.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 133,
+      "exportedPath": "04-uni/lineare-algebra-1/grundlagen/elementare-aussagenlogik/notwendig.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Elementare Aussagenlogik/Quantoren.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 95,
+      "exportedPath": "04-uni/lineare-algebra-1/grundlagen/elementare-aussagenlogik/quantoren.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Elementare Aussagenlogik/Verknüpfung von Aussagen.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 244,
+      "exportedPath": "04-uni/lineare-algebra-1/grundlagen/elementare-aussagenlogik/verknüpfung-von-aussagen.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Elementare Aussagenlogik/Vollständige Induktion.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 703,
+      "exportedPath": "04-uni/lineare-algebra-1/grundlagen/elementare-aussagenlogik/vollständige-induktion.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Elementare Aussagenlogik/Wahrheitswert.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 139,
+      "exportedPath": "04-uni/lineare-algebra-1/grundlagen/elementare-aussagenlogik/wahrheitswert.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Mengen/Das Kartesische Produkt.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 439,
+      "exportedPath": "04-uni/lineare-algebra-1/grundlagen/mengen/das-kartesische-produkt.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Mengen/disjunkt.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 310,
+      "exportedPath": "04-uni/lineare-algebra-1/grundlagen/mengen/disjunkt.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Mengen/Einschluss Ausschluss Formel.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 428,
+      "exportedPath": "04-uni/lineare-algebra-1/grundlagen/mengen/einschluss-ausschluss-formel.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Mengen/Elemente.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 304,
+      "exportedPath": "04-uni/lineare-algebra-1/grundlagen/mengen/elemente.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Mengen/Komplement.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 122,
+      "exportedPath": "04-uni/lineare-algebra-1/grundlagen/mengen/komplement.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Mengen/Mächtigkeit einer Menge.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 298,
+      "exportedPath": "04-uni/lineare-algebra-1/grundlagen/mengen/mächtigkeit-einer-menge.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Mengen/Menge.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 295,
+      "exportedPath": "04-uni/lineare-algebra-1/grundlagen/mengen/menge.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Mengen/Mengen.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 374,
+      "exportedPath": "04-uni/lineare-algebra-1/grundlagen/mengen/mengen.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Mengen/Mengenoperationen.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 617,
+      "exportedPath": "04-uni/lineare-algebra-1/grundlagen/mengen/mengenoperationen.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Mengen/Potenzmenge.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 516,
+      "exportedPath": "04-uni/lineare-algebra-1/grundlagen/mengen/potenzmenge.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Mengen/Rechenregeln für Mengen.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 447,
+      "exportedPath": "04-uni/lineare-algebra-1/grundlagen/mengen/rechenregeln-für-mengen.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Mengen/Symmetrische Differenz.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 126,
+      "exportedPath": "04-uni/lineare-algebra-1/grundlagen/mengen/symmetrische-differenz.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Mengen/Teilmengen.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 469,
+      "exportedPath": "04-uni/lineare-algebra-1/grundlagen/mengen/teilmengen.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Mengen/Tupel.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 437,
+      "exportedPath": "04-uni/lineare-algebra-1/grundlagen/mengen/tupel.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Grundlagen/Grundlagen.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 100,
+      "exportedPath": "04-uni/lineare-algebra-1/grundlagen/grundlagen.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Lineare Abbildungen/Abbildungsverhalten linearer Abbildungen.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 924,
+      "exportedPath": "04-uni/lineare-algebra-1/lineare-abbildungen/abbildungsverhalten-linearer-abbildungen.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Lineare Abbildungen/Achsenspiegelung.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 477,
+      "exportedPath": "04-uni/lineare-algebra-1/lineare-abbildungen/achsenspiegelung.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Lineare Abbildungen/Additivität.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 215,
+      "exportedPath": "04-uni/lineare-algebra-1/lineare-abbildungen/additivität.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Lineare Abbildungen/Affine Abbildung.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 260,
+      "exportedPath": "04-uni/lineare-algebra-1/lineare-abbildungen/affine-abbildung.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Lineare Abbildungen/Basiswechsel und Koordinatentransformation.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 2092,
+      "exportedPath": "04-uni/lineare-algebra-1/lineare-abbildungen/basiswechsel-und-koordinatentransformation.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Lineare Abbildungen/Beweis Linearität der Matrix-Vector Multiplikation.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 433,
+      "exportedPath": "04-uni/lineare-algebra-1/lineare-abbildungen/beweis-linearität-der-matrix-vector-multiplikation.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Lineare Abbildungen/Beweis Linearität der Umkehrabbildung linearer Abbildungen.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 581,
+      "exportedPath": "04-uni/lineare-algebra-1/lineare-abbildungen/beweis-linearität-der-umkehrabbildung-linearer-abbildungen.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Lineare Abbildungen/bijektivität linearer Abbildungen.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 812,
+      "exportedPath": "04-uni/lineare-algebra-1/lineare-abbildungen/bijektivität-linearer-abbildungen.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Lineare Abbildungen/Bild, Kern und Rang linearer Abbildungen.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 346,
+      "exportedPath": "04-uni/lineare-algebra-1/lineare-abbildungen/bild,-kern-und-rang-linearer-abbildungen.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Lineare Abbildungen/Definition und Eigenschaften.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 647,
+      "exportedPath": "04-uni/lineare-algebra-1/lineare-abbildungen/definition-und-eigenschaften.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Lineare Abbildungen/Drehung um 90°.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 612,
+      "exportedPath": "04-uni/lineare-algebra-1/lineare-abbildungen/drehung-um-90°.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Lineare Abbildungen/Drehung um einen Winkel.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 906,
+      "exportedPath": "04-uni/lineare-algebra-1/lineare-abbildungen/drehung-um-einen-winkel.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Lineare Abbildungen/Geometrische Beispiele.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 361,
+      "exportedPath": "04-uni/lineare-algebra-1/lineare-abbildungen/geometrische-beispiele.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Lineare Abbildungen/Homogene Koordinaten.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 2707,
+      "exportedPath": "04-uni/lineare-algebra-1/lineare-abbildungen/homogene-koordinaten.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Lineare Abbildungen/Homogene Transformation.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 2234,
+      "exportedPath": "04-uni/lineare-algebra-1/lineare-abbildungen/homogene-transformation.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Lineare Abbildungen/Homogenität.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 250,
+      "exportedPath": "04-uni/lineare-algebra-1/lineare-abbildungen/homogenität.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Lineare Abbildungen/injektivität linearer Abbildungen.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 312,
+      "exportedPath": "04-uni/lineare-algebra-1/lineare-abbildungen/injektivität-linearer-abbildungen.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Lineare Abbildungen/Isomorphismus.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 575,
+      "exportedPath": "04-uni/lineare-algebra-1/lineare-abbildungen/isomorphismus.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Lineare Abbildungen/Iwasawa-Zerlegung.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 669,
+      "exportedPath": "04-uni/lineare-algebra-1/lineare-abbildungen/iwasawa-zerlegung.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Lineare Abbildungen/Komposition linearer Abbildungen.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 2344,
+      "exportedPath": "04-uni/lineare-algebra-1/lineare-abbildungen/komposition-linearer-abbildungen.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Lineare Abbildungen/Lineare Abbildung.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 444,
+      "exportedPath": "04-uni/lineare-algebra-1/lineare-abbildungen/lineare-abbildung.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Lineare Abbildungen/Lineare Abbildungen.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 374,
+      "exportedPath": "04-uni/lineare-algebra-1/lineare-abbildungen/lineare-abbildungen.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Lineare Abbildungen/Lineare Abhängigkeit von Linearen Abbildungen.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 510,
+      "exportedPath": "04-uni/lineare-algebra-1/lineare-abbildungen/lineare-abhängigkeit-von-linearen-abbildungen.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Lineare Abbildungen/Linearität der Matrix-Vector Multiplikation.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 394,
+      "exportedPath": "04-uni/lineare-algebra-1/lineare-abbildungen/linearität-der-matrix-vector-multiplikation.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Lineare Abbildungen/Matrixdarstellung linearer Abbildungen.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 1675,
+      "exportedPath": "04-uni/lineare-algebra-1/lineare-abbildungen/matrixdarstellung-linearer-abbildungen.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Lineare Abbildungen/Orthogonale Abbildungen.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 1825,
+      "exportedPath": "04-uni/lineare-algebra-1/lineare-abbildungen/orthogonale-abbildungen.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Lineare Abbildungen/Punktspiegelung am Nullpunkt.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 445,
+      "exportedPath": "04-uni/lineare-algebra-1/lineare-abbildungen/punktspiegelung-am-nullpunkt.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Lineare Abbildungen/Scherung.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 496,
+      "exportedPath": "04-uni/lineare-algebra-1/lineare-abbildungen/scherung.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Lineare Abbildungen/Streckung.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 605,
+      "exportedPath": "04-uni/lineare-algebra-1/lineare-abbildungen/streckung.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Lineare Abbildungen/surjektivität linearer Abbildungen.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 224,
+      "exportedPath": "04-uni/lineare-algebra-1/lineare-abbildungen/surjektivität-linearer-abbildungen.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Lineare Abbildungen/Umkehrabbildungen linearer Abbildungen.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 3798,
+      "exportedPath": "04-uni/lineare-algebra-1/lineare-abbildungen/umkehrabbildungen-linearer-abbildungen.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Lineare Abbildungen/Untervektorräume linearer Abbildungen.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 328,
+      "exportedPath": "04-uni/lineare-algebra-1/lineare-abbildungen/untervektorräume-linearer-abbildungen.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Matrizen/Addition von Matrizen.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 817,
+      "exportedPath": "04-uni/lineare-algebra-1/matrizen/addition-von-matrizen.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Matrizen/Allgemeine lineare Gruppe.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 486,
+      "exportedPath": "04-uni/lineare-algebra-1/matrizen/allgemeine-lineare-gruppe.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Matrizen/Beweis Dimension des Bildes.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 621,
+      "exportedPath": "04-uni/lineare-algebra-1/matrizen/beweis-dimension-des-bildes.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Matrizen/Beweis Dimensionsformel.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 2655,
+      "exportedPath": "04-uni/lineare-algebra-1/matrizen/beweis-dimensionsformel.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Matrizen/Beweis Lemma3 Bild, Kern und Rang von Matrizen.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 1605,
+      "exportedPath": "04-uni/lineare-algebra-1/matrizen/beweis-lemma3-bild,-kern-und-rang-von-matrizen.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Matrizen/Beweis Matrixbild ist Untervektorraum.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 524,
+      "exportedPath": "04-uni/lineare-algebra-1/matrizen/beweis-matrixbild-ist-untervektorraum.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Matrizen/Beweis Matrixkern ist Untervektorraum.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 542,
+      "exportedPath": "04-uni/lineare-algebra-1/matrizen/beweis-matrixkern-ist-untervektorraum.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Matrizen/Beweis Nicht Nullabbildung Inverser Matrizen.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 523,
+      "exportedPath": "04-uni/lineare-algebra-1/matrizen/beweis-nicht-nullabbildung-inverser-matrizen.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Matrizen/Beweis Rang Transponierter Matrix.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 734,
+      "exportedPath": "04-uni/lineare-algebra-1/matrizen/beweis-rang-transponierter-matrix.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Matrizen/Beweis Satz1 Orthogonale Matrizen.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 414,
+      "exportedPath": "04-uni/lineare-algebra-1/matrizen/beweis-satz1-orthogonale-matrizen.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Matrizen/Beweis Satz2 Bild, Kern und Rang von Matrizen.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 770,
+      "exportedPath": "04-uni/lineare-algebra-1/matrizen/beweis-satz2-bild,-kern-und-rang-von-matrizen.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Matrizen/Beweis Satz3 Orthogonale Matrizen.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 214,
+      "exportedPath": "04-uni/lineare-algebra-1/matrizen/beweis-satz3-orthogonale-matrizen.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Matrizen/Beweis Satz4 Orthogonale Matrizen.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 174,
+      "exportedPath": "04-uni/lineare-algebra-1/matrizen/beweis-satz4-orthogonale-matrizen.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Matrizen/Beweis Satz5 Orthogonale Matrizen.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 80,
+      "exportedPath": "04-uni/lineare-algebra-1/matrizen/beweis-satz5-orthogonale-matrizen.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Matrizen/Beweis Satz6 Orthogonale Matrizen.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 446,
+      "exportedPath": "04-uni/lineare-algebra-1/matrizen/beweis-satz6-orthogonale-matrizen.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Matrizen/Beweis Spaltenraum ist Bild.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 1129,
+      "exportedPath": "04-uni/lineare-algebra-1/matrizen/beweis-spaltenraum-ist-bild.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Matrizen/Bild einer Matrix.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 1317,
+      "exportedPath": "04-uni/lineare-algebra-1/matrizen/bild-einer-matrix.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Matrizen/Bild, Kern und Rang von Matrizen.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 1738,
+      "exportedPath": "04-uni/lineare-algebra-1/matrizen/bild,-kern-und-rang-von-matrizen.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Matrizen/Definition von Matrizen.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 305,
+      "exportedPath": "04-uni/lineare-algebra-1/matrizen/definition-von-matrizen.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Matrizen/Diagonal-Matrix.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 938,
+      "exportedPath": "04-uni/lineare-algebra-1/matrizen/diagonal-matrix.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Matrizen/Diagonale einer Matrix.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 367,
+      "exportedPath": "04-uni/lineare-algebra-1/matrizen/diagonale-einer-matrix.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Matrizen/Dimensionsformel von Matrizen.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 551,
+      "exportedPath": "04-uni/lineare-algebra-1/matrizen/dimensionsformel-von-matrizen.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Matrizen/Dreiecks- und Diagonalmatrizen.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 1520,
+      "exportedPath": "04-uni/lineare-algebra-1/matrizen/dreiecks-und-diagonalmatrizen.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Matrizen/Einheitsmatrix.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 535,
+      "exportedPath": "04-uni/lineare-algebra-1/matrizen/einheitsmatrix.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Matrizen/Elementarmatrizen.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 173,
+      "exportedPath": "04-uni/lineare-algebra-1/matrizen/elementarmatrizen.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Matrizen/Elementarmatrizen Typ 1.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 651,
+      "exportedPath": "04-uni/lineare-algebra-1/matrizen/elementarmatrizen-typ-1.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Matrizen/Elementarmatrizen Typ 2.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 539,
+      "exportedPath": "04-uni/lineare-algebra-1/matrizen/elementarmatrizen-typ-2.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Matrizen/Elementarmatrizen Typ 3.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 626,
+      "exportedPath": "04-uni/lineare-algebra-1/matrizen/elementarmatrizen-typ-3.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Matrizen/Elementarmatrizen und Matrizenumformungen.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 301,
+      "exportedPath": "04-uni/lineare-algebra-1/matrizen/elementarmatrizen-und-matrizenumformungen.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Matrizen/Inverse Matrizen.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 342,
+      "exportedPath": "04-uni/lineare-algebra-1/matrizen/inverse-matrizen.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Matrizen/Invertierbare Matrix.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 1069,
+      "exportedPath": "04-uni/lineare-algebra-1/matrizen/invertierbare-matrix.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Matrizen/Invertierbarkeit der Transponierten Matrix.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 260,
+      "exportedPath": "04-uni/lineare-algebra-1/matrizen/invertierbarkeit-der-transponierten-matrix.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Matrizen/Invertierbarkeit von quadratischen Matrizen.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 682,
+      "exportedPath": "04-uni/lineare-algebra-1/matrizen/invertierbarkeit-von-quadratischen-matrizen.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Matrizen/Kern einer Matrix.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 939,
+      "exportedPath": "04-uni/lineare-algebra-1/matrizen/kern-einer-matrix.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Matrizen/Matrix.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 482,
+      "exportedPath": "04-uni/lineare-algebra-1/matrizen/matrix.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Matrizen/Matrix-Vector Multiplikation.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 2178,
+      "exportedPath": "04-uni/lineare-algebra-1/matrizen/matrix-vector-multiplikation.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Matrizen/Matrixeinträge.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 187,
+      "exportedPath": "04-uni/lineare-algebra-1/matrizen/matrixeinträge.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Matrizen/Matrixindex.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 270,
+      "exportedPath": "04-uni/lineare-algebra-1/matrizen/matrixindex.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Matrizen/Matrixmultiplikation.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 2194,
+      "exportedPath": "04-uni/lineare-algebra-1/matrizen/matrixmultiplikation.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Matrizen/Matrizen.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 312,
+      "exportedPath": "04-uni/lineare-algebra-1/matrizen/matrizen.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Matrizen/Multiplikation mit Matrizen.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 626,
+      "exportedPath": "04-uni/lineare-algebra-1/matrizen/multiplikation-mit-matrizen.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Matrizen/Nullmatrix.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 260,
+      "exportedPath": "04-uni/lineare-algebra-1/matrizen/nullmatrix.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Matrizen/Obere Dreiecks-Matrix.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 657,
+      "exportedPath": "04-uni/lineare-algebra-1/matrizen/obere-dreiecks-matrix.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Matrizen/Orthogonal-Matrix.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 506,
+      "exportedPath": "04-uni/lineare-algebra-1/matrizen/orthogonal-matrix.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Matrizen/Orthogonale Gruppe.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 321,
+      "exportedPath": "04-uni/lineare-algebra-1/matrizen/orthogonale-gruppe.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Matrizen/Orthogonale Matrizen.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 2133,
+      "exportedPath": "04-uni/lineare-algebra-1/matrizen/orthogonale-matrizen.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Matrizen/Quadratische Matrix.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 184,
+      "exportedPath": "04-uni/lineare-algebra-1/matrizen/quadratische-matrix.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Matrizen/Rang einer Matrix.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 478,
+      "exportedPath": "04-uni/lineare-algebra-1/matrizen/rang-einer-matrix.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Matrizen/Rang Transponierter Matrix.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 269,
+      "exportedPath": "04-uni/lineare-algebra-1/matrizen/rang-transponierter-matrix.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Matrizen/Rechenregeln der Matrixmultiplikation.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 719,
+      "exportedPath": "04-uni/lineare-algebra-1/matrizen/rechenregeln-der-matrixmultiplikation.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Matrizen/Rechnen mit Matrizen.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 1196,
+      "exportedPath": "04-uni/lineare-algebra-1/matrizen/rechnen-mit-matrizen.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Matrizen/S-Multiplikation von Matrizen.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 842,
+      "exportedPath": "04-uni/lineare-algebra-1/matrizen/s-multiplikation-von-matrizen.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Matrizen/Schema_Matrix_Matrix_Multiplikation.png": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 39381,
+      "exportedPath": "04-uni/lineare-algebra-1/matrizen/schema_matrix_matrix_multiplikation.png",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Matrizen/Schema_Matrix_Vector_Multiplikation.png": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 111639,
+      "exportedPath": "04-uni/lineare-algebra-1/matrizen/schema_matrix_vector_multiplikation.png",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Matrizen/Spaltenraum.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 318,
+      "exportedPath": "04-uni/lineare-algebra-1/matrizen/spaltenraum.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Matrizen/Symetrische Matrix.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 314,
+      "exportedPath": "04-uni/lineare-algebra-1/matrizen/symetrische-matrix.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Matrizen/Transponierte Matrix.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 700,
+      "exportedPath": "04-uni/lineare-algebra-1/matrizen/transponierte-matrix.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Matrizen/Transponierte Matrizen.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 182,
+      "exportedPath": "04-uni/lineare-algebra-1/matrizen/transponierte-matrizen.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Matrizen/Untere-Dreiecks-Matrix.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 705,
+      "exportedPath": "04-uni/lineare-algebra-1/matrizen/untere-dreiecks-matrix.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Matrizen/Vollrangige Matrix.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 224,
+      "exportedPath": "04-uni/lineare-algebra-1/matrizen/vollrangige-matrix.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Matrizen/Zeilen und Spaltenrang.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 971,
+      "exportedPath": "04-uni/lineare-algebra-1/matrizen/zeilen-und-spaltenrang.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Matrizen/Zeilen und Spaltenvektoren.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 794,
+      "exportedPath": "04-uni/lineare-algebra-1/matrizen/zeilen-und-spaltenvektoren.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Matrizen/Zeilenraum.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 270,
+      "exportedPath": "04-uni/lineare-algebra-1/matrizen/zeilenraum.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Matrizen/Zeilenumformungen.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 856,
+      "exportedPath": "04-uni/lineare-algebra-1/matrizen/zeilenumformungen.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Vektorräume/Linearkombinationen und lineare Unabhängigkeit/Austauschlemma.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 333,
+      "exportedPath": "04-uni/lineare-algebra-1/vektorräume/linearkombinationen-und-lineare-unabhängigkeit/austauschlemma.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Vektorräume/Linearkombinationen und lineare Unabhängigkeit/Erzeugendensystem.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 160,
+      "exportedPath": "04-uni/lineare-algebra-1/vektorräume/linearkombinationen-und-lineare-unabhängigkeit/erzeugendensystem.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Vektorräume/Linearkombinationen und lineare Unabhängigkeit/Lineare abhängigkeit.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 394,
+      "exportedPath": "04-uni/lineare-algebra-1/vektorräume/linearkombinationen-und-lineare-unabhängigkeit/lineare-abhängigkeit.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Vektorräume/Linearkombinationen und lineare Unabhängigkeit/Lineare unabhängigkeit.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 524,
+      "exportedPath": "04-uni/lineare-algebra-1/vektorräume/linearkombinationen-und-lineare-unabhängigkeit/lineare-unabhängigkeit.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Vektorräume/Linearkombinationen und lineare Unabhängigkeit/Linearkombination.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 322,
+      "exportedPath": "04-uni/lineare-algebra-1/vektorräume/linearkombinationen-und-lineare-unabhängigkeit/linearkombination.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Vektorräume/Linearkombinationen und lineare Unabhängigkeit/Linearkombinationen und lineare Unabhängigkeit.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 539,
+      "exportedPath": "04-uni/lineare-algebra-1/vektorräume/linearkombinationen-und-lineare-unabhängigkeit/linearkombinationen-und-lineare-unabhängigkeit.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Vektorräume/Linearkombinationen und lineare Unabhängigkeit/Spann.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 317,
+      "exportedPath": "04-uni/lineare-algebra-1/vektorräume/linearkombinationen-und-lineare-unabhängigkeit/spann.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Vektorräume/Vektorraumaxiome/Skalare.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 137,
+      "exportedPath": "04-uni/lineare-algebra-1/vektorräume/vektorraumaxiome/skalare.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Vektorräume/Vektorraumaxiome/Vektoren.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 200,
+      "exportedPath": "04-uni/lineare-algebra-1/vektorräume/vektorraumaxiome/vektoren.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Vektorräume/Vektorraumaxiome/Vektorraum.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 936,
+      "exportedPath": "04-uni/lineare-algebra-1/vektorräume/vektorraumaxiome/vektorraum.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Vektorräume/Vektorraumaxiome/Vektorraumaxiome.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 74,
+      "exportedPath": "04-uni/lineare-algebra-1/vektorräume/vektorraumaxiome/vektorraumaxiome.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Vektorräume/Affiner Unterraum.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 515,
+      "exportedPath": "04-uni/lineare-algebra-1/vektorräume/affiner-unterraum.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Vektorräume/Basis und Dimension.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 101,
+      "exportedPath": "04-uni/lineare-algebra-1/vektorräume/basis-und-dimension.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Vektorräume/Basis-Isomorphismus.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 418,
+      "exportedPath": "04-uni/lineare-algebra-1/vektorräume/basis-isomorphismus.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Vektorräume/Dimension eines Untervektorraums.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 172,
+      "exportedPath": "04-uni/lineare-algebra-1/vektorräume/dimension-eines-untervektorraums.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Vektorräume/Direkte Summe von Untervektorräumen.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 268,
+      "exportedPath": "04-uni/lineare-algebra-1/vektorräume/direkte-summe-von-untervektorräumen.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Vektorräume/Koordinatensystem.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 672,
+      "exportedPath": "04-uni/lineare-algebra-1/vektorräume/koordinatensystem.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Vektorräume/Summe von Untervektorräumen.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 261,
+      "exportedPath": "04-uni/lineare-algebra-1/vektorräume/summe-von-untervektorräumen.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Vektorräume/Untervektorräume.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 1132,
+      "exportedPath": "04-uni/lineare-algebra-1/vektorräume/untervektorräume.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Vektorräume/Vektorraum Basis.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 1138,
+      "exportedPath": "04-uni/lineare-algebra-1/vektorräume/vektorraum-basis.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Vektorräume/Vektorraum Dimension.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 346,
+      "exportedPath": "04-uni/lineare-algebra-1/vektorräume/vektorraum-dimension.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Vektorräume/Vektorräume.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 170,
+      "exportedPath": "04-uni/lineare-algebra-1/vektorräume/vektorräume.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Vektorrechnung im zweidimensionalen und dreidimensionalen anschauungstaum/Ebenen.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 1591,
+      "exportedPath": "04-uni/lineare-algebra-1/vektorrechnung-im-zweidimensionalen-und-dreidimensionalen-anschauungstaum/ebenen.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Vektorrechnung im zweidimensionalen und dreidimensionalen anschauungstaum/Ebenen Normalenform.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 298,
+      "exportedPath": "04-uni/lineare-algebra-1/vektorrechnung-im-zweidimensionalen-und-dreidimensionalen-anschauungstaum/ebenen-normalenform.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Vektorrechnung im zweidimensionalen und dreidimensionalen anschauungstaum/Ebenen Normalenvektor.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 1043,
+      "exportedPath": "04-uni/lineare-algebra-1/vektorrechnung-im-zweidimensionalen-und-dreidimensionalen-anschauungstaum/ebenen-normalenvektor.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Vektorrechnung im zweidimensionalen und dreidimensionalen anschauungstaum/Einheitsvektor.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 385,
+      "exportedPath": "04-uni/lineare-algebra-1/vektorrechnung-im-zweidimensionalen-und-dreidimensionalen-anschauungstaum/einheitsvektor.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Vektorrechnung im zweidimensionalen und dreidimensionalen anschauungstaum/Geraden.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 1088,
+      "exportedPath": "04-uni/lineare-algebra-1/vektorrechnung-im-zweidimensionalen-und-dreidimensionalen-anschauungstaum/geraden.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Vektorrechnung im zweidimensionalen und dreidimensionalen anschauungstaum/Geraden Normalenform.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 550,
+      "exportedPath": "04-uni/lineare-algebra-1/vektorrechnung-im-zweidimensionalen-und-dreidimensionalen-anschauungstaum/geraden-normalenform.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Vektorrechnung im zweidimensionalen und dreidimensionalen anschauungstaum/Geraden Normalenvektor.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 920,
+      "exportedPath": "04-uni/lineare-algebra-1/vektorrechnung-im-zweidimensionalen-und-dreidimensionalen-anschauungstaum/geraden-normalenvektor.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Vektorrechnung im zweidimensionalen und dreidimensionalen anschauungstaum/Ortsvektoren.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 137,
+      "exportedPath": "04-uni/lineare-algebra-1/vektorrechnung-im-zweidimensionalen-und-dreidimensionalen-anschauungstaum/ortsvektoren.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Vektorrechnung im zweidimensionalen und dreidimensionalen anschauungstaum/Punktabstand.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 249,
+      "exportedPath": "04-uni/lineare-algebra-1/vektorrechnung-im-zweidimensionalen-und-dreidimensionalen-anschauungstaum/punktabstand.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Vektorrechnung im zweidimensionalen und dreidimensionalen anschauungstaum/Punktebene.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 460,
+      "exportedPath": "04-uni/lineare-algebra-1/vektorrechnung-im-zweidimensionalen-und-dreidimensionalen-anschauungstaum/punktebene.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Vektorrechnung im zweidimensionalen und dreidimensionalen anschauungstaum/Punktgerade.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 453,
+      "exportedPath": "04-uni/lineare-algebra-1/vektorrechnung-im-zweidimensionalen-und-dreidimensionalen-anschauungstaum/punktgerade.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Vektorrechnung im zweidimensionalen und dreidimensionalen anschauungstaum/Sphäre.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 1163,
+      "exportedPath": "04-uni/lineare-algebra-1/vektorrechnung-im-zweidimensionalen-und-dreidimensionalen-anschauungstaum/sphäre.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Vektorrechnung im zweidimensionalen und dreidimensionalen anschauungstaum/Ursprungsebene.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 487,
+      "exportedPath": "04-uni/lineare-algebra-1/vektorrechnung-im-zweidimensionalen-und-dreidimensionalen-anschauungstaum/ursprungsebene.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Vektorrechnung im zweidimensionalen und dreidimensionalen anschauungstaum/Ursprungsgerade.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 571,
+      "exportedPath": "04-uni/lineare-algebra-1/vektorrechnung-im-zweidimensionalen-und-dreidimensionalen-anschauungstaum/ursprungsgerade.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Vektorrechnung im zweidimensionalen und dreidimensionalen anschauungstaum/Vektorprodukt.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 940,
+      "exportedPath": "04-uni/lineare-algebra-1/vektorrechnung-im-zweidimensionalen-und-dreidimensionalen-anschauungstaum/vektorprodukt.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Vektorrechnung im zweidimensionalen und dreidimensionalen anschauungstaum/Vektorraum Punkt.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 452,
+      "exportedPath": "04-uni/lineare-algebra-1/vektorrechnung-im-zweidimensionalen-und-dreidimensionalen-anschauungstaum/vektorraum-punkt.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Vektorrechnung im zweidimensionalen und dreidimensionalen anschauungstaum/Vektorraum Ursprung.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 275,
+      "exportedPath": "04-uni/lineare-algebra-1/vektorrechnung-im-zweidimensionalen-und-dreidimensionalen-anschauungstaum/vektorraum-ursprung.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Vektorrechnung im zweidimensionalen und dreidimensionalen anschauungstaum/Vektorrechnung im zweidimensionalen und dreidimensionalen Anschauungsraum.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 284,
+      "exportedPath": "04-uni/lineare-algebra-1/vektorrechnung-im-zweidimensionalen-und-dreidimensionalen-anschauungstaum/vektorrechnung-im-zweidimensionalen-und-dreidimensionalen-anschauungsraum.html",
+      "dependencies": []
+    },
+    "04 - Uni/Lineare Algebra 1/Lineare Algebra 1.md": {
+      "modifiedTime": 1740999897720,
+      "sourceSize": 214,
+      "exportedPath": "04-uni/lineare-algebra-1/lineare-algebra-1.html",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1733967769225,
+      "modifiedTime": 1740999897720,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1733967769225,
+      "modifiedTime": 1740999897720,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1733967769225,
+      "modifiedTime": 1740999897720,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1733967769225,
+      "modifiedTime": 1740999897720,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1733967769225,
+      "modifiedTime": 1740999897720,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1733967769225,
+      "modifiedTime": 1740999897720,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1733967769225,
+      "modifiedTime": 1740999897720,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1733967769225,
+      "modifiedTime": 1740999897720,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1733967769225,
+      "modifiedTime": 1740999897720,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1733967769225,
+      "modifiedTime": 1740999897720,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1733967769225,
+      "modifiedTime": 1740999897720,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1733967769225,
+      "modifiedTime": 1740999897720,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1733967769225,
+      "modifiedTime": 1740999897720,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1733967769225,
+      "modifiedTime": 1740999897720,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1733967769225,
+      "modifiedTime": 1740999897720,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/fonts/mathjax_zero.woff": {
-      "modifiedTime": 1733967769225,
+      "modifiedTime": 1740999897720,
       "sourceSize": 1368,
       "exportedPath": "lib/fonts/mathjax_zero.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-regular.woff": {
-      "modifiedTime": 1733967769225,
+      "modifiedTime": 1740999897720,
       "sourceSize": 34160,
       "exportedPath": "lib/fonts/mathjax_main-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-bold.woff": {
-      "modifiedTime": 1733967769225,
+      "modifiedTime": 1740999897720,
       "sourceSize": 34464,
       "exportedPath": "lib/fonts/mathjax_main-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_math-italic.woff": {
-      "modifiedTime": 1733967769225,
+      "modifiedTime": 1740999897720,
       "sourceSize": 19360,
       "exportedPath": "lib/fonts/mathjax_math-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-italic.woff": {
-      "modifiedTime": 1733967769225,
+      "modifiedTime": 1740999897720,
       "sourceSize": 20832,
       "exportedPath": "lib/fonts/mathjax_main-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_math-bolditalic.woff": {
-      "modifiedTime": 1733967769225,
+      "modifiedTime": 1740999897720,
       "sourceSize": 19776,
       "exportedPath": "lib/fonts/mathjax_math-bolditalic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size1-regular.woff": {
-      "modifiedTime": 1733967769225,
+      "modifiedTime": 1740999897720,
       "sourceSize": 5792,
       "exportedPath": "lib/fonts/mathjax_size1-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size2-regular.woff": {
-      "modifiedTime": 1733967769225,
+      "modifiedTime": 1740999897720,
       "sourceSize": 5464,
       "exportedPath": "lib/fonts/mathjax_size2-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size3-regular.woff": {
-      "modifiedTime": 1733967769225,
+      "modifiedTime": 1740999897720,
       "sourceSize": 3244,
       "exportedPath": "lib/fonts/mathjax_size3-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size4-regular.woff": {
-      "modifiedTime": 1733967769225,
+      "modifiedTime": 1740999897720,
       "sourceSize": 5148,
       "exportedPath": "lib/fonts/mathjax_size4-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_ams-regular.woff": {
-      "modifiedTime": 1733967769225,
+      "modifiedTime": 1740999897720,
       "sourceSize": 40808,
       "exportedPath": "lib/fonts/mathjax_ams-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_calligraphic-regular.woff": {
-      "modifiedTime": 1733967769225,
+      "modifiedTime": 1740999897720,
       "sourceSize": 9600,
       "exportedPath": "lib/fonts/mathjax_calligraphic-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_calligraphic-bold.woff": {
-      "modifiedTime": 1733967769225,
+      "modifiedTime": 1740999897720,
       "sourceSize": 9908,
       "exportedPath": "lib/fonts/mathjax_calligraphic-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_fraktur-regular.woff": {
-      "modifiedTime": 1733967769225,
+      "modifiedTime": 1740999897720,
       "sourceSize": 21480,
       "exportedPath": "lib/fonts/mathjax_fraktur-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_fraktur-bold.woff": {
-      "modifiedTime": 1733967769225,
+      "modifiedTime": 1740999897720,
       "sourceSize": 22340,
       "exportedPath": "lib/fonts/mathjax_fraktur-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-regular.woff": {
-      "modifiedTime": 1733967769225,
+      "modifiedTime": 1740999897720,
       "sourceSize": 12660,
       "exportedPath": "lib/fonts/mathjax_sansserif-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-bold.woff": {
-      "modifiedTime": 1733967769225,
+      "modifiedTime": 1740999897720,
       "sourceSize": 15944,
       "exportedPath": "lib/fonts/mathjax_sansserif-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-italic.woff": {
-      "modifiedTime": 1733967769225,
+      "modifiedTime": 1740999897720,
       "sourceSize": 14628,
       "exportedPath": "lib/fonts/mathjax_sansserif-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_script-regular.woff": {
-      "modifiedTime": 1733967769225,
+      "modifiedTime": 1740999897720,
       "sourceSize": 11852,
       "exportedPath": "lib/fonts/mathjax_script-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_typewriter-regular.woff": {
-      "modifiedTime": 1733967769225,
+      "modifiedTime": 1740999897720,
       "sourceSize": 17604,
       "exportedPath": "lib/fonts/mathjax_typewriter-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_vector-regular.woff": {
-      "modifiedTime": 1733967769225,
+      "modifiedTime": 1740999897720,
       "sourceSize": 1136,
       "exportedPath": "lib/fonts/mathjax_vector-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_vector-bold.woff": {
-      "modifiedTime": 1733967769225,
+      "modifiedTime": 1740999897720,
       "sourceSize": 1116,
       "exportedPath": "lib/fonts/mathjax_vector-bold.woff",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1733967769225,
-      "sourceSize": 5048,
+      "modifiedTime": 1740999897720,
+      "sourceSize": 202638,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1733967769225,
+      "modifiedTime": 1740999897720,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1733967769225,
+      "modifiedTime": 1740999897720,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1733967769225,
+      "modifiedTime": 1740999897720,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1733967769225,
+      "modifiedTime": 1740999897720,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1733967769225,
+      "modifiedTime": 1740999897720,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1733967769225,
+      "modifiedTime": 1740999897720,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1733967769225,
+      "modifiedTime": 1740999897720,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1733967769225,
-      "sourceSize": 1105,
+      "modifiedTime": 1740999897720,
+      "sourceSize": 80316,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1733967769225,
-      "sourceSize": 302,
+      "modifiedTime": 1740999897720,
+      "sourceSize": 35781,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1733967769225,
+      "modifiedTime": 1740999897720,
       "sourceSize": 157722,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/other-plugins.css": {
-      "modifiedTime": 1733967769225,
-      "sourceSize": 9724,
+      "modifiedTime": 1740999897720,
+      "sourceSize": 4858287,
       "exportedPath": "lib/styles/other-plugins.css",
       "dependencies": []
     },
     "lib/styles/theme.css": {
-      "modifiedTime": 1733967769225,
+      "modifiedTime": 1740999897720,
       "sourceSize": 287984,
       "exportedPath": "lib/styles/theme.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1733967769225,
+      "modifiedTime": 1740999897720,
       "sourceSize": 281,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/supported-plugins.css": {
-      "modifiedTime": 1733967769225,
-      "sourceSize": 3465,
+      "modifiedTime": 1740999897720,
+      "sourceSize": 3348,
       "exportedPath": "lib/styles/supported-plugins.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1733967769225,
+      "modifiedTime": 1740999897720,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     },
     "lib/styles/snippets.css": {
-      "modifiedTime": 1733967769225,
-      "sourceSize": 55,
+      "modifiedTime": 1740999897720,
+      "sourceSize": 14541,
       "exportedPath": "lib/styles/snippets.css",
-      "dependencies": []
-    },
-    "src/images/MakaHeader.jpg": {
-      "modifiedTime": 1733967769225,
-      "sourceSize": 20689,
-      "exportedPath": "src/images/makaheader.jpg",
-      "dependencies": []
-    },
-    "Github Pages.md": {
-      "modifiedTime": 1733967769225,
-      "sourceSize": 40,
-      "exportedPath": "github-pages.html",
       "dependencies": []
     }
   }
